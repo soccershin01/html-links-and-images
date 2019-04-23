@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+6721b84a917fe6761b1b45593ac1d5a741111452 refs/remotes/origin/SydGagnon-patch-1
+5f26630c11a17a8b72094b12a2f59bf8279f2ca4 refs/remotes/origin/master
+9ba809d129a316274a0df25087a53f9d6769c474 refs/remotes/origin/pr/9
